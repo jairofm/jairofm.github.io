@@ -8,7 +8,7 @@
 # Site settings
 title: Jairo Fontes
 email: jairo.jfm@gmail.com
-description: > Olá, Sou um {desenvolvedor Web} desde 2008.
+description: Olá, Sou um {desenvolvedor Web} desde 2008!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jairofm.github.io" # the base hostname & protocol for your site
 twitter_username: jairofm
